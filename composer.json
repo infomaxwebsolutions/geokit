@@ -1,5 +1,6 @@
 {
-    "name": "geokit/geokit",
+    "name": "infomaxwebsolutions/geokit",
+    "type": "library",
     "description": "Geo-Toolkit for PHP",
     "keywords": ["geo", "geometry", "geography"],
     "homepage": "https://github.com/jsor/geokit",
@@ -9,6 +10,11 @@
             "name": "Jan Sorgalla",
             "email": "jsorgalla@gmail.com",
             "homepage": "http://sorgalla.com"
+        },
+        {
+            "name": "Stefan Oswald",
+            "email": "oswald@infomax-it.de",
+            "homepage": "https://www.infomax-online.de/"
         }
     ],
     "require": {
